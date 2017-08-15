@@ -45,6 +45,10 @@
         distance: '0px'
     }, 300);
 
+    // Reduce iframe after video End
+
+
+
     // Initialize and Configure Magnific Popup Lightbox Plugin
   /*  $('.popup-gallery').magnificPopup({
         delegate: 'a',
